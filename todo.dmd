@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="todo" id="8D8066B6-2137-00D9-5DE8-9EEBA8022E8F" version="3.5">
+<createdBy>Kate</createdBy>
+<createdTime>2016-04-06 19:03:45 UTC</createdTime>
+<ownerDesignName>todo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8D8066B6-2137-00D9-5DE8-9EEBA8022E8F</designId>
+</OSDM_Design>
